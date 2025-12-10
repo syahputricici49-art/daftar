@@ -5,7 +5,7 @@
 <meta charset="utf-8">
 <title>ABKSLOT || Situs Judi Slot & Togel 4d Terlengkap Tahun 2026</title>
 <link rel="amphtml" href="https://oldtwonbig.pages.dev/">
-<link rel="canonical" href="https://srtechhub.com/about/" />
+<link rel="canonical" href="https://srtechhub.com/workshops/" />
 <meta name="google-site-verification" content="U9Zk4kMQpBBFfQ4bpPjOUyfBrqcg9nmv5L5vovASP-I" />
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mulish:200,300,400,600,700,800,900" />
 <meta name="description" content="ABKSLOT Adalah situs platform judi slot dan togel 4d online terlengkap di indonesia tahun 2026. Situs ABKSLOT menyediakan daftar lengkap game slot gacor gampang menang dari provider game slot88 thailand yang dikenal sebagai provider game slot gacor maxwin terpopuler serta layanan togel 4d online 24 jam.">
@@ -38,7 +38,7 @@
 <meta property="og:title" content="ABKSLOT || Situs Judi Slot & Togel 4d Terlengkap Tahun 2026" />
 <meta property="og:description" content="ABKSLOT Adalah situs platform judi slot dan togel 4d online terlengkap di indonesia tahun 2026. Situs ABKSLOT menyediakan daftar lengkap game slot gacor gampang menang dari provider game slot88 thailand yang dikenal sebagai provider game slot gacor maxwin terpopuler serta layanan togel 4d online 24 jam." />
 <meta property="og:type" content="product" />
-<meta property="og:url" content="https://srtechhub.com/about/" /> 
+<meta property="og:url" content="https://srtechhub.com/workshops/" /> 
 <meta property="og:image" content="https://i.pinimg.com/736x/08/f6/d7/08f6d7a93549586af2b391d0bfeed54c.jpg" />
 <meta property="product:price:amount" content="5.20" />
 <meta property="product:price:currency" content="USD" />
@@ -57,7 +57,7 @@
 <link rel="preconnect" href="//v.etsystatic.com" />
 <link rel="preconnect" href="//v.etsystatic.com" crossorigin="anonymous" />
 <link rel="preload" as="image" imagesrcset="https://i.pinimg.com/736x/08/f6/d7/08f6d7a93549586af2b391d0bfeed54c.jpg" fetchpriority="high" />
-<link rel="alternate" href="https://srtechhub.com/about/" hreflang="en" />
+<link rel="alternate" href="https://srtechhub.com/workshops/" hreflang="en" />
 <link rel="alternate" href="https://www.etsy.com/fi-en/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="en-FI" />
 <link rel="alternate" href="https://www.etsy.com/au/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="en-AU" />
 <link rel="alternate" href="https://www.etsy.com/ca/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="en-CA" />
@@ -84,8 +84,8 @@
 <link rel="alternate" href="https://www.etsy.com/jp/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="ja" />
 <link rel="alternate" href="https://www.etsy.com/pl/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="pl" />
 <link rel="alternate" href="https://www.etsy.com/pt/listing/1790774795/book-club-print-bookish-poster-trendy" hreflang="pt" />
-<link rel="alternate" href="https://srtechhub.com/about/" hreflang="x-default" />
-<link rel="alternate" href="https://srtechhub.com/about/" hreflang="en-US" />
+<link rel="alternate" href="https://srtechhub.com/workshops/" hreflang="x-default" />
+<link rel="alternate" href="https://srtechhub.com/workshops/" hreflang="en-US" />
 <script nonce="gPiNOjdRCrWLas5Ik2CuS+N0">
     !function(e){var r=e.__etsy_logging={};r.errorQueue=[],e.onerror=function(e,o,t,n,s){r.errorQueue.push([e,o,t,n,s])},r.firedEvents=[];r.perf={e:[],t:!1,MARK_MEASURE_PREFIX:"_etsy_mark_measure_",prefixMarkMeasure:function(e){return"_etsy_mark_measure_"+e}},e.PerformanceObserver&&(r.perf.o=new PerformanceObserver((function(e){r.perf.e=r.perf.e.concat(e.getEntries())})),r.perf.o.observe({entryTypes:["element","navigation","longtask","paint","mark","measure","resource","layout-shift"]}));var o=[];r.eventpipe={q:o,logEvent:function(e){o.push(e)},logEventImmediately:function(e){o.push(e)}};var t=!(Object.assign&&Object.values&&Object.fromEntries&&e.Promise&&Promise.prototype.finally&&e.NodeList&&NodeList.prototype.forEach),n=!!e.CefSharp||!!e.__pw_resume,s=!e.PerformanceObserver||!PerformanceObserver.supportedEntryTypes||0===PerformanceObserver.supportedEntryTypes.length,a=!e.navigator||!e.navigator.sendBeacon,p=t||n,u=[];t&&u.push("fp"),s&&u.push("fo"),a&&u.push("fb"),n&&u.push("fg"),r.bots={isBot:p,botCheck:u}}(window);
 </script>
@@ -189,7 +189,7 @@
  {
   "@type": "Product",
   "@context": "https:\/\/schema.org",
-  "url": "https://srtechhub.com/about/",
+  "url": "https://srtechhub.com/workshops/",
   "name": "ABKSLOT",
   "sku": "1790774795",
   "gtin": "n\/a",
@@ -340,17 +340,17 @@
    "@type": "ListItem",
    "position": 1,
    "name": "ABKSLOT",
-   "item": "https://srtechhub.com/about/"
+   "item": "https://srtechhub.com/workshops/"
   }, {
    "@type": "ListItem",
    "position": 2,
    "name": "SLOT GACOR",
-   "item": "https://srtechhub.com/about/"
+   "item": "https://srtechhub.com/workshops/"
   }, {
    "@type": "ListItem",
    "position": 3,
    "name": "SLOT88",
-   "item": "https://srtechhub.com/about/"
+   "item": "https://srtechhub.com/workshops/"
   }]
  }
 </script> 
@@ -1048,19 +1048,19 @@ if (clientloggerIsEnabled) {
                 <div class="wt-grid wt-body-max-width wt-pl-xs-2 wt-pr-xs-2 wt-pl-md-4 wt-pr-md-4 wt-pl-lg-6 wt-pr-lg-6">
                 <ul class="wt-list-unstyled wt-grid__item-xs-12 wt-body-max-width wt-display-flex-xs wt-justify-content-center" data-menu-ui="menubar" data-ui="top-nav-category-list">
                         <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://srtechhub.com/about/">ABKSLOT</a>
+                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://srtechhub.com/workshops/">ABKSLOT</a>
                                 <span class="etsy-icon arrow-separator wt-sem-text-primary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></svg></span>
                         </li>
                         <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://srtechhub.com/about/">SLOT88</a>
+                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://srtechhub.com/workshops/">SLOT88</a>
                                 <span class="etsy-icon arrow-separator wt-sem-text-primary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></svg></span>
                         </li>
                         <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://srtechhub.com/about/">SLOT TERPERCAYA</a>
+                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://srtechhub.com/workshops/">SLOT TERPERCAYA</a>
                                 <span class="etsy-icon arrow-separator wt-sem-text-primary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></svg></span>
                         </li>
                         <li data-ui="list-item-breadcrumbs" class="top-nav-item wt-sem-text-primary wt-text-body-small--tight wt-pb-xs-2">
-                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://srtechhub.com/about/">SITUS SLOT GACOR</a>
+                            <a data-breadcrumb-link data-menu-ui="menuitem" tabindex="0" href="https://srtechhub.com/workshops/">SITUS SLOT GACOR</a>
                         </li>
                         
                 </ul>
@@ -1476,7 +1476,7 @@ if (clientloggerIsEnabled) {
         
 <div class="wt-mt-xs-1 wt-mb-xs-1">
 <h1>ABKSLOT || Situs Judi Slot & Togel 4d Terlengkap Tahun 2026</h1><br>
-<p><a href="https://srtechhub.com/about/">ABKSLOT</a></strong> Adalah situs platform judi slot dan togel 4d online terlengkap di indonesia tahun 2026. Situs ABKSLOT menyediakan daftar lengkap game slot gacor gampang menang dari provider game slot88 thailand yang dikenal sebagai provider game slot gacor maxwin terpopuler serta layanan togel 4d online 24 jam.</p>
+<p><a href="https://srtechhub.com/workshops/">ABKSLOT</a></strong> Adalah situs platform judi slot dan togel 4d online terlengkap di indonesia tahun 2026. Situs ABKSLOT menyediakan daftar lengkap game slot gacor gampang menang dari provider game slot88 thailand yang dikenal sebagai provider game slot gacor maxwin terpopuler serta layanan togel 4d online 24 jam.</p>
 
             </div>
         <div class="wt-mb-xs-3">
@@ -1485,7 +1485,7 @@ if (clientloggerIsEnabled) {
         
     ">
         <span class="wt-text-title-small">
-    <a href="https://srtechhub.com/about/" class="wt-text-link-no-underline wt-sem-text-primary">
+    <a href="https://srtechhub.com/workshops/" class="wt-text-link-no-underline wt-sem-text-primary">
         SITUS SLOT
     </a>
 </span>
@@ -1844,13 +1844,13 @@ if (clientloggerIsEnabled) {
 </div>
     
     <div class="wt-text-caption wt-text-center-xs wt-text-left-lg">
-        <a href="https://srtechhub.com/about/">ABKSLOT</a>
+        <a href="https://srtechhub.com/workshops/">ABKSLOT</a>
             <span class="etsy-icon wt-sem-text-secondary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></svg></span>
-        <a href="https://srtechhub.com/about/">SITUS SLOT</a>
+        <a href="https://srtechhub.com/workshops/">SITUS SLOT</a>
             <span class="etsy-icon wt-sem-text-secondary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></svg></span>
-        <a href="https://srtechhub.com/about/">SLOT GACOR</a>
+        <a href="https://srtechhub.com/workshops/">SLOT GACOR</a>
             <span class="etsy-icon wt-sem-text-secondary wt-icon--smallest-xs"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M8 21a1 1 0 0 1-.664-1.747l8.164-7.254-8.164-7.252a1 1 0 0 1 1.328-1.494L18.5 12l-9.836 8.747A1 1 0 0 1 8 21"/></svg></span>
-        <a href="https://srtechhub.com/about/">SLOT88</a>
+        <a href="https://srtechhub.com/workshops/">SLOT88</a>
         
 </div>
     
