@@ -6,7 +6,7 @@
 <title>VIPTOTO || BANDAR JUDI SLOT DAN TOGEL ONLINE 4D  DEPOSIT RECEH 10 RIBU VIA QRIS</title>
 <link rel="amphtml" href="https://oldtwonbig.pages.dev/">
 <link rel="canonical" href="https://snehanjali.in/product-category/mobiles-accessories/" />
-<meta name="google-site-verification" content="U9Zk4kMQpBBFfQ4bpPjOUyfBrqcg9nmv5L5vovASP-I" />
+    <meta name="google-site-verification" content="50BlfJOKzJ5g5tYBxAia5ZnBDrScJRo3qe_49ONEt0s" />
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mulish:200,300,400,600,700,800,900" />
 <meta name="description" content="VIPTOTO Ialah bandar judi slot dan togel online resmi di indonesia yang menyediakan daftar lengkap game slot gacor serta togel 4d online dengan deposit termurah hanya 10 ribu via qris yang dapat diakses selama 24 jam nonstop.">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
