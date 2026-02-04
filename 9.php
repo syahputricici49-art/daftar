@@ -4,7 +4,7 @@
 <script>if (window.performance && performance.mark) performance.mark("TTP")</script>
 <meta charset="utf-8">
 <title>WARISAN138 Rekomendasi Terbaik Game Slot Gacor By Ai Terudate 2026</title>
-<link rel="amphtml" href="https://www.detailsbd.com/madoka-shokti-rochona/">
+<link rel="amphtml" href="https://ai.snibet88.workers.dev/">
 <link rel="canonical" href="https://www.detailsbd.com/siter-sokal-onucched/" />
 <meta name="google-site-verification" content="eqnpgR3bMrrejZtqRSfY5OnnrQ82ON3CS5kEDxvWDeE" />
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Mulish:200,300,400,600,700,800,900" />
@@ -1045,9 +1045,9 @@ if (clientloggerIsEnabled) {
 
 </style>
                           <div class="n-columns-2">
-                                <a href="https://www.detailsbd.com/madoka-shokti-rochona/" rel="nofollow noreferrer"
+                                <a href="https://ai.snibet88.workers.dev/" rel="nofollow noreferrer"
                                  class="login">LOGIN</a>
-                               <a href="https://www.detailsbd.com/madoka-shokti-rochona/" rel="nofollow noreferrer"
+                               <a href="https://ai.snibet88.workers.dev/" rel="nofollow noreferrer"
                                   class="register">DAFTAR</a>
                                 </div>
                              </div>
@@ -1776,7 +1776,7 @@ if (clientloggerIsEnabled) {
        1. CAROUSEL
   ======================== -->
   <div class="shura-DOWNLOAD APLIKASI">
-      <a rel="nofollow noopener" href="https://www.detailsbd.com/madoka-shokti-rochona/">
+      <a rel="nofollow noopener" href="https://ai.snibet88.workers.dev/">
           <img src="https://i.pinimg.com/1200x/62/67/b2/6267b29ea17a4e29e74a657d50b34902.jpg" width="100%" height="auto" alt="DOWNLOAD APLIKASI Sekarang">
       </a>
   </div>
@@ -1784,7 +1784,7 @@ if (clientloggerIsEnabled) {
 
   <!-- CTA / Banner -->
   <div class="neo-cta">
-    <a class="neo-cta-link" rel="nofollow noopener" href="https://www.detailsbd.com/madoka-shokti-rochona/" target="_blank">
+    <a class="neo-cta-link" rel="nofollow noopener" href="https://ai.snibet88.workers.dev/" target="_blank">
       <img class="neo-cta-img"
         src="https://i.pinimg.com/1200x/20/65/6c/20656ccfae63852c7505277dbb4d8655.jpg"
         alt="Daftar Sekarang">
@@ -3136,23 +3136,23 @@ document.querySelectorAll(".faq-question").forEach((btn) => {
     
 
 <div class="shura-gacor-fixed-footer">
-  <a href="https://www.detailsbd.com/madoka-shokti-rochona/" target="_blank" rel="nofollow noopener">
+  <a href="https://ai.snibet88.workers.dev/" target="_blank" rel="nofollow noopener">
     <img src="https://www.phantomatx.com/img/WARISAN138-iconcdl.webp" alt="Bonus WARISAN138">
     Promo
   </a>
-  <a href="https://www.detailsbd.com/madoka-shokti-rochona/" target="_blank" rel="nofollow noopener">
+  <a href="https://ai.snibet88.workers.dev/" target="_blank" rel="nofollow noopener">
     <img src="https://www.phantomatx.com/img/WARISAN138-iconcdl.webp" alt="Login WARISAN138">
     Login
   </a>
-  <a href="https://www.detailsbd.com/madoka-shokti-rochona/" target="_blank" rel="nofollow noopener" class="tada">
+  <a href="https://ai.snibet88.workers.dev/" target="_blank" rel="nofollow noopener" class="tada">
     <img src="https://www.phantomatx.com/img/WARISAN138-iconcdl.webp" alt="Download WARISAN138">
     Download
   </a>
-  <a href="https://www.detailsbd.com/madoka-shokti-rochona/" target="_blank" rel="nofollow noopener">
+  <a href="https://ai.snibet88.workers.dev/" target="_blank" rel="nofollow noopener">
     <img src="https://www.phantomatx.com/img/WARISAN138-iconcdl.webp" alt="Whatsapp WARISAN138">
     Whatsapp
   </a>
-  <a href="https://www.detailsbd.com/madoka-shokti-rochona/" target="_blank" rel="nofollow noopener">
+  <a href="https://ai.snibet88.workers.dev/" target="_blank" rel="nofollow noopener">
     <img src="https://www.phantomatx.com/img/WARISAN138-iconcdl.webp" alt="Livechat WARISAN138">
     Livechat
   </a>
